@@ -1,5 +1,5 @@
 {
-  "name": "@cms/admin",
+  "name": "@cms-1/admin",
   "private": true,
   "dependencies": {
     "@apollo/client": "3.6.9",

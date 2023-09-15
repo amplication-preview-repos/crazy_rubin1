@@ -1,5 +1,5 @@
 {
-  "name": "@cms/server",
+  "name": "@cms-1/server",
   "private": true,
   "scripts": {
     "start": "nest start",
